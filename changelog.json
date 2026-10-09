@@ -1,0 +1,13 @@
+{
+  "additions": [
+    "Updated to latest version"
+  ],
+  "improvements": [
+    "CLVM has been optimized",
+    "hooksignal is working"
+  ],
+  "fixes": [
+    "Stability fixes",
+    "Function fixes"
+  ]
+}
