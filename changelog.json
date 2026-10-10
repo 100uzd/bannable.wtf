@@ -1,13 +1,11 @@
 {
   "additions": [
-    "Updated to latest version"
+    "Emulator has been fixed"
   ],
   "improvements": [
-    "CLVM has been optimized",
-    "hooksignal is working"
+    
   ],
   "fixes": [
     "Stability fixes",
-    "Function fixes"
   ]
 }
