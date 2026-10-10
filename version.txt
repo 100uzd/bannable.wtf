@@ -1,2 +1,2 @@
-bannable=v1.13.4
+bannable=v1.13.5
 roblox=version-cec3ad5889b447cf
